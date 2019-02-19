@@ -4,7 +4,7 @@ Prography-front portfolio 입니다.
 
 ## 웹사이트
 
-[포트폴리오](https://godsenal.github.io/prography-front)
+[Prography-front 포트폴리오](https://godsenal.github.io/prography-front/)
 
 ## localhost
 
