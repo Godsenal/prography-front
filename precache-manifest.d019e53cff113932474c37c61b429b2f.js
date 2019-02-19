@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/prography-front/static/media/arrow-down.28ae5b03.svg"
   },
   {
-    "revision": "28d1bac27fda88585b5cf21f0944a158",
+    "revision": "8e9deedca2067f8ccff798623c88e1e3",
     "url": "/prography-front/index.html"
   }
 ];
